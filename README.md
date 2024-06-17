@@ -8,4 +8,5 @@ tengo conocimientos en:
 - Dessarrollo web Backend
 - Conocimiento en base de datos SQL
 - Conocimiento en base de datos NoSql
+
 Sigo reforzando mis conocimiento y habilidades y aprendiendo cosas nuevas día a día.
